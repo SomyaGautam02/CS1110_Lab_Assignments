@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 #Name-Somya Gautam
 #Roll Number- 2020BTechCSE076
 #Batch-A
@@ -53,10 +47,3 @@ def make_board(n):
         
 n = int(input('Enter size of board :'))
 make_board(n)
-
-
-# In[ ]:
-
-
-3
-
