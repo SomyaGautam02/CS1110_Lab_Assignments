@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 #Name-Somya Gautam
 #Roll Number- 2020BTechCSE076
 #Batch-A
@@ -41,10 +35,3 @@ for k in range(2,n*n+1):
 
 print(arr)
 print("Constant value : ",constant)
-
-
-# In[ ]:
-
-
-
-
