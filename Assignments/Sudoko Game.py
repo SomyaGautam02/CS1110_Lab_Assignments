@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
 #Name-Somya Gautam
 #Roll Number- 2020BTechCSE076
 #Batch-A
@@ -68,10 +62,3 @@ if (Suduko(grid, 0, 0)):
     puzzle(grid)
 else:
     print("Solution does not exist.")
-
-
-# In[ ]:
-
-
-
-
