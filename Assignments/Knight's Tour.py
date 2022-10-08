@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #Name-Somya Gautam
 #Roll Number- 2020BTechCSE076
 #Batch-A
@@ -44,16 +38,3 @@ chessBoard = [[0 for i in range(8)] for j in range(8)]
 chessBoard[1][1] = 1      
 executer=KnightTour()
 executer.StartTour(chessBoard,0,0,1)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
