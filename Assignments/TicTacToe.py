@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 #Name-Somya Gautam
 #Roll Number- 2020BTechCSE076
 #Batch-A
@@ -88,10 +82,3 @@ class TicTacToe:
 
 executer=TicTacToe()
 executer.game()
-
-
-# In[ ]:
-
-
-
-
