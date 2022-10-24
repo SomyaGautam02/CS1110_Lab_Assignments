@@ -1,10 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
+#Name-Somya Gautam
+#Roll Number- 2020BTechCSE076
+#Batch-A
 
-# # 8 puzzle
-
-# In[1]:
-
+# 8 Puzzle
 
 import numpy as np
 
@@ -53,4 +51,3 @@ def solve(blankR, blankC):
 
 print("SOLUTION: \n")
 solve(2,1)
-
